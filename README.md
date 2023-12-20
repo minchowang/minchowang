@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @minchowang
+- 👋 Hi, I’m @minchowang  [![minchowang GitHub stats](https://github-readme-stats.vercel.app/api?username=minchowang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 - 👀 I’m interested in distributed computing and storage
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on big-data related projects
 - 📫 How to reach me ...
 
-[![minchowang GitHub stats](https://github-readme-stats.vercel.app/api?username=minchowang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
