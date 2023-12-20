@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @minchowang  
+- 👋 Hi, I’m @mincho
 - 👀 I’m interested in distributed computing and storage
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning everything 
 - 💞️ I’m looking to collaborate on big-data related projects
-- 📫 How to reach me ...
+- 📫 How to reach me  wang1125062995@gmail.com
 
 <!---
 minchowang/minchowang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
