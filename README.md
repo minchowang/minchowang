@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @mincho
-- 👀 I’m interested in distributed computing and storage
-- 🌱 I’m currently learning everything 
-- 💞️ I’m looking to collaborate on big-data related projects
-- 📫 How to reach me  wang1125062995@gmail.com
+### Hi, I'm minchao 👋
 
-<!---
-minchowang/minchowang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Distributed systems & data engineering.
+
+- 🔭 Curious about how data moves, systems scale, and things fail.
+- 🧪 Exploring AI agents, developer tools, and new ways to build software.
+- 🌱 Following interesting problems, one rabbit hole at a time.
+- 📫 Reach me at [minchaowang98@gmail.com](mailto:minchaowang98@gmail.com).
 
 [![minchowang GitHub stats](https://github-readme-stats.vercel.app/api?username=minchowang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
